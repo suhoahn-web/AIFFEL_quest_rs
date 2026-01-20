@@ -1,19 +1,29 @@
-# Peer Review Template (PRT)
+# AIFFEL Campus Online Code Peer Review Templete
+- 코더 : 코더의 이름을 작성하세요.
+- 리뷰어 : 리뷰어의 이름을 작성하세요.
 
-## 1. Summary
-- What did you implement?
 
-## 2. Key Points
-- Key idea / approach
-- What worked well?
+# PRT(Peer Review Template)
+- [x]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
+    - 문제에서 요구되는 최종 결과물이 잘 출력되었다.
+    
+- [x]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
+주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
+    - 코드가 어떤 동작을 하는지에 대해서 주석으로 잘 작성되어있다.
+        
+- [x]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
+새로운 시도 또는 추가 실험을 수행해봤나요?**
+    - 처음에 모든 결과가 출력된 후 더 좋은 출력물을 위해 추가적인 실험을 수행했다.
+        
+- [x]  **4. 회고를 잘 작성했나요?**
+    - 진행한 코드에 대해서 어떤 문제가 있었는지, 그래서 어떻게 해결해나갔는지에 대해서 잘 작성 되어있었다.
+        
+- [x]  **5. 코드가 간결하고 효율적인가요?**
+    - 결과물이 한번에 출력되도록 코드를 함축적이고 간결하게 작성 되었다.
 
-## 3. Review Comments
-- Strengths:
-- Improvements:
 
-## 4. Execution & Reproducibility
-- How to run:
-- Environment / dependencies:
-
-## 5. References
-- Links / papers / docs:
+# 회고(참고 링크 및 코드 개선)
+```
+간결한 코드를 이해하기 쉽게 잘 작성되어있어 제가 공부하기도 좋을 것 같습니다.
+수고 많으셨습니다.
+```
